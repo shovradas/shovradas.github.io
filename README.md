@@ -1,7 +1,7 @@
-## FEEDi (Node.js + MongoDB)
-https://github.com/shovradas/ums-dotnet
+## FEEDi (AngularJS, Node.js, MongoDB)
+https://github.com/shovradas/feedi
 
-## Demo Project (.NET)
+## Ums (ASP.NET MVC, MSSQL)
 https://github.com/shovradas/ums-dotnet
 
 ## Academic Assignments
