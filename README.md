@@ -1,14 +1,15 @@
 
 ### Python
+[proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
 
-
-<br/><br/>
+<br/>
 
 
 ### Java
+[school-ms](https://github.com/shovradas/school-ms) &#8212; `Java` `Spring Boot`
 
 
-<br/><br/>
+<br/>
 
 
 ### Node.js
@@ -17,14 +18,14 @@
 [feedi](https://github.com/shovradas/feedi) &#8212; `AngularJS` `Node.js` `MongoDB`
 
 
-<br/><br/>
+<br/>
 
 
 ### .NET
-[ums](https://github.com/shovradas/ums-dotnet) &#8212; `ASP.NET-MVC` `MSSQL`
+[ums](https://github.com/shovradas/ums-dotnet) &#8212; `C#` `ASP.NET-MVC` `MSSQL`
 
 
-<br/><br/>
+<br/>
 
 
 ### Others
