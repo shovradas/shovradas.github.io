@@ -23,10 +23,8 @@
 [ums](https://github.com/shovradas/ums-dotnet) `ASP.NET-MVC` `MSSQL`
 
 
----
-### Others
----
-[graph-visualizer](https://github.com/shovradas/graph-visualizer)&emsp;`D3.js`
 
-[solid-wot](https://github.com/shovradas/solid-wot)  &emsp;&emsp;&emsp; `JavaScript`
-
+| Others                                                                        |
+|-------------------------------------------------------------------------------|
+|[graph-visualizer](https://github.com/shovradas/graph-visualizer)  `D3.js`     |
+|[solid-wot](https://github.com/shovradas/solid-wot)                `JavaScript`|
