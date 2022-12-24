@@ -1,22 +1,22 @@
 # Repositories
 
-## Python
+### Python
 
 
-## Java
+### Java
 
 
-## Node.js
-[SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard)
+### Node.js
+[SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) `Node.js` `MySQL`
 
-`Node.js` `MySQL`
-
-[FEEDi](https://github.com/shovradas/feedi)
-
-`AngularJS` `Node.js` `MongoDB`
+[feedi](https://github.com/shovradas/feedi) `AngularJS` `Node.js` `MongoDB`
 
 
-## .NET
-[UMS](https://github.com/shovradas/ums-dotnet)
+### .NET
+[ums](https://github.com/shovradas/ums-dotnet) `ASP.NET-MVC` `MSSQL`
 
-`ASP.NET-MVC` `MSSQL`
+
+### Others
+[graph-visualizer](https://github.com/shovradas/graph-visualizer) `D3.js`
+
+[solid-wot](https://github.com/shovradas/solid-wot)
