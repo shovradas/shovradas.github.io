@@ -17,6 +17,9 @@
 
 
 ### Others
-[graph-visualizer](https://github.com/shovradas/graph-visualizer) `D3.js`
 
-[solid-wot](https://github.com/shovradas/solid-wot)
+|||
+|-|-|
+|[graph-visualizer](https://github.com/shovradas/graph-visualizer)  | `D3.js`       |
+|[solid-wot](https://github.com/shovradas/solid-wot)                | `JavaScript`  |
+
