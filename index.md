@@ -4,11 +4,9 @@ title: "Shovra Das"
 ---
 
 ### Python
-[proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
+> [proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
 
----
-
-[pdf-merger](https://github.com/shovradas/pdf-merger) &#8212; `Python` `PyQt5`
+> [pdf-merger](https://github.com/shovradas/pdf-merger) &#8212; `Python` `PyQt5`
 
 
 <br/>
