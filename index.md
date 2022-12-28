@@ -4,9 +4,11 @@ title: "Shovra Das"
 ---
 
 ### Python
-> [proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
+[proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
+> A proxy aggregator
 
-> [pdf-merger](https://github.com/shovradas/pdf-merger) &#8212; `Python` `PyQt5`
+[pdf-merger](https://github.com/shovradas/pdf-merger) &#8212; `Python` `PyQt5`
+> A pdf tool
 
 
 <br/>
@@ -21,8 +23,6 @@ title: "Shovra Das"
 
 ### Node.js
 [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; `Node.js` `MySQL` `Bootstrap v4`
-
----
 
 [feedi](https://github.com/shovradas/feedi) &#8212; `AngularJS` `Node.js` `MongoDB`
 
