@@ -1,5 +1,6 @@
-# All Repositories
-
+---
+layout: default
+---
 
 ### Python
 [proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
@@ -27,7 +28,7 @@
 
 
 ### .NET
-[ums](https://github.com/shovradas/ums-dotnet) &#8212; `C#` `ASP.NET-MVC` `MSSQL`
+[ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; `C#` `ASP.NET-MVC` `MSSQL`
 
 
 <br/>
