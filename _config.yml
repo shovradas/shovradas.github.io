@@ -1,10 +1,9 @@
-title: "Shovra Das"
-description: "An overview of all my repositories"
-
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
+title: "Shovra Das"
+description: "An overview of all my repositories"
 github:
   is_project_page: "true"
   repository_url: https://github.com/shovradas
