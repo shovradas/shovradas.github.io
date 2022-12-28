@@ -40,6 +40,4 @@ title: "Shovra Das"
 ### Others
 [graph-visualizer](https://github.com/shovradas/graph-visualizer) &#8212; `D3.js`
 
----
-
 [solid-wot](https://github.com/shovradas/solid-wot) &#8212; `JavaScript`
