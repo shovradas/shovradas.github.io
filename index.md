@@ -6,6 +6,8 @@ title: "Shovra Das"
 ### Python
 [proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
 
+[windnode-demonstrator](https://github.com/shovradas/windnode-demonstrator) &#8212; `Python` `PyQt5` `Optimization` `Genetic Algorithm` `NSGA-II`
+
 [pdf-merger](https://github.com/shovradas/pdf-merger) &#8212; `Python` `PyQt5`
 
 [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; `Python` `TensorFlow`
