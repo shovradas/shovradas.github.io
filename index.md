@@ -8,7 +8,7 @@ title: "Shovra Das"
 
 [windnode-demonstrator](https://github.com/shovradas/windnode-demonstrator) &#8212; `Python` `PyQt5` `Optimization` `Genetic Algorithm` `NSGA-II`
 
-[pdf-merger](https://github.com/shovradas/pdf-merger) &#8212; `Python` `PyQt5`
+[pdf-util](https://github.com/shovradas/pdf-util) &#8212; `Python` `PyQt6`
 
 [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; `Python` `TensorFlow`
 
