@@ -4,7 +4,7 @@ title: "Shovra Das"
 ---
 
 ### Python
-#### [proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
+[proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
 
 [windnode-demonstrator](https://github.com/shovradas/windnode-demonstrator) &#8212; `Python` `PyQt5` `Optimization` `Genetic Algorithm` `NSGA-II`
 
