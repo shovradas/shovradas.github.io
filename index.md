@@ -14,7 +14,7 @@ title: "Shovra Das"
 
 [proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `WebApp` `Flask` `MongoDB`
 
-[pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; `Python` `Console` `TensorFlow`
+[pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; `Python` `ConsoleApp` `TensorFlow`
 
 [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; `Python` `ServerApp`
 
