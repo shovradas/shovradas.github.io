@@ -4,17 +4,19 @@ title: "Shovra Das"
 ---
 
 ### Python
-[proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `Flask` `MongoDB`
+[atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; `Python` `CliApp`
 
-[windnode-demonstrator](https://github.com/shovradas/windnode-demonstrator) &#8212; `Python` `PyQt5` `Optimization` `Genetic Algorithm` `NSGA-II`
+[iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; `Python` `CliApp` `DesktopApp` `PyQt5` `Optimization` `Genetic Algorithm` `NSGA-II`
 
-[iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; `Python` `Console` `SQLite`
+[iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; `Python` `CliApp` `SQLite`
 
-[pdf-util](https://github.com/shovradas/pdf-util) &#8212; `Python` `PyQt6`
+[pdf-util](https://github.com/shovradas/pdf-util) &#8212; `Python` `DesktopApp` `PyQt6`
 
-[pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; `Python` `TensorFlow`
+[proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `WebApp` `Flask` `MongoDB`
 
-[pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; `Python`
+[pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; `Python` `Console` `TensorFlow`
+
+[pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; `Python` `ServerApp`
 
 
 <br/>
