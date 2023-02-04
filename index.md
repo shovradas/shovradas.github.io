@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Shovra Das
+title: Shovra Das | Home
 filename: index
+navtitle: HOME
 ---
 
 ### Python

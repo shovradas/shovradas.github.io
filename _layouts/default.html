@@ -28,10 +28,12 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <!-- modified by shovra -->
-      {% for page in site.pages %}
-          <a href={{ page.filename }} class="btn">{{ page.title }}</a>
-      {% endfor %}
+      <!-- added by shovra -->
+      <div>
+          {% for page in site.pages %}
+            <a href={{ page.filename }} style="border: 1px solid #000;">{{ page.navtitle }}</a>
+          {% endfor %}
+      </div>
 
       {{ content }}
 

@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Shovra Das
+title: Shovra Das | MyPage
 filename: mypage
+navtitle: MYPAGE
 ---
