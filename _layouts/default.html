@@ -33,13 +33,13 @@
 
     <main id="content" class="main-content" role="main">
       <!-- added by shovra -->
-      <div style="border: 1px solid #15816F; border-width: 1px 0; padding: 10px 0;">
+      <div style="text-align: center">
           {% for page in site.pages %}
             <a href={{ page.file }}>{{ page.nav }}</a>
           {% endfor %}
       </div>
       <!--------------------->
-      
+
       {{ content }}
 
       <footer class="site-footer">
