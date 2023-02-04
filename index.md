@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shovra Das
-filename: index.md
+filename: index
 ---
 
 ### Python
