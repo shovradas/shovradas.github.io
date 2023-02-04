@@ -4,6 +4,7 @@ plugins:
 
 title: "Shovra Das"
 description: "An overview of all my repositories"
-github:
-  is_project_page: "true"
-  repository_url: https://github.com/shovradas
+
+sdconfig:
+  profile: https://github.com/shovradas
+  repositories: https://github.com/shovradas?tab=repositories

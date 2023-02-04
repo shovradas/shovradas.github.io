@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Shovra Das | MyPage
-filename: mypage
-navtitle: MYPAGE
+title: Shovra Das
+file: mypage
+nav: MYPAGE
 ---
+
+# Under construction

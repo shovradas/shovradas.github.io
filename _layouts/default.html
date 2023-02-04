@@ -25,16 +25,21 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}      
+      <!-- added by shovra -->
+      <a href="{{ site.sdconfig.repositories }}" class="btn">View on GitHub</a>
+      <a href="{{ site.sdconfig.profile }}" class="btn">GitHub Profile</a>
+      <!--------------------->
     </header>
 
     <main id="content" class="main-content" role="main">
       <!-- added by shovra -->
-      <div>
+      <div style="border: 1px solid #15816F; border-width: 1px 0; padding: 10px 0;">
           {% for page in site.pages %}
-            <a href={{ page.filename }} style="border: 1px solid #000;">{{ page.navtitle }}</a>
+            <a href={{ page.file }}>{{ page.nav }}</a>
           {% endfor %}
       </div>
-
+      <!--------------------->
+      
       {{ content }}
 
       <footer class="site-footer">
