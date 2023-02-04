@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Shovra Das"
+title: Shovra Das
+filename: index.md
 ---
 
 ### Python
