@@ -24,7 +24,9 @@ title: "Shovra Das"
 <br/>
 
 
-### Node.js
+### JavaScript
+[atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; `Vanilla JS` `D3.js`
+
 [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; `Node.js` `MySQL` `Bootstrap v4`
 
 [feedi](https://github.com/shovradas/feedi) &#8212; `AngularJS` `Node.js` `MongoDB`
@@ -49,6 +51,4 @@ title: "Shovra Das"
 
 
 ### Others
-[graph-visualizer](https://github.com/shovradas/graph-visualizer) &#8212; `D3.js`
-
 [competitive-programming](https://github.com/shovradas/competitive-programming)
