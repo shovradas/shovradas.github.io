@@ -29,7 +29,7 @@ title: "Shovra Das"
 
 [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; `Node.js` `MySQL` `Bootstrap v4`
 
-[feedi](https://github.com/shovradas/feedi) &#8212; `AngularJS` `Node.js` `MongoDB`
+[feedi](https://github.com/shovradas/feedi) &#8212; `Node.js` `AngularJS` `MongoDB`
 
 [solid-wot](https://github.com/shovradas/solid-wot) &#8212; `Node.js` `WebSocket` `SoLiD` `SPARQL` `WoT`
 
