@@ -10,6 +10,8 @@ title: "Shovra Das"
 
 [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; `Python` `CliApp` `SQLite`
 
+[iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; `Python` `WebApp`
+
 [pdf-util](https://github.com/shovradas/pdf-util) &#8212; `Python` `DesktopApp` `PyQt6`
 
 [proxyally](https://github.com/shovradas/proxyally) &#8212; `Python` `WebApp` `Flask` `MongoDB`
