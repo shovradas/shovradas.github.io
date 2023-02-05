@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: "Shovra Das"
-description: "A systematic overview of all my repositories. Use By&lt;Category&gt; links below at your convenience"
+description: "A systematic overview of all my repositories. Use By&lt;Category&gt; links below at your convenience."
 
 sdconfig:
   profile: https://github.com/shovradas
