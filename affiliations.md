@@ -28,7 +28,7 @@ nav: ByAffiliations
 
 #### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-`type:CLI` `type:Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`type:CLI|Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 
 <br>
@@ -90,4 +90,4 @@ nav: ByAffiliations
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
- 
+`type:Other`  

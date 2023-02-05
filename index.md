@@ -24,7 +24,7 @@ nav: ByLanguage
 
 #### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-`affl:Job` `type:CLI` `type:Desktop` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`affl:Job` `type:CLI|Desktop` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 #### [pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
 
@@ -92,4 +92,4 @@ nav: ByLanguage
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
- 
+`type:Other`  
