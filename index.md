@@ -12,35 +12,35 @@ nav: ByLanguage
 
 #### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
 
-`Affiliation: Job` `Type: CLI`  `DecentralizedWeb`
+`Rel:Job` `Type:CLI`  `DecentralizedWeb`
 
 #### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
-`Affiliation: Job` `Affiliation: Hobby` `Type: Web` `Flask` 
+`Rel:Job` `Rel:Hobby` `Type:Web` `Flask` 
 
 #### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
 
-`Affiliation: Job` `Type: CLI` `SQLite` 
+`Rel:Job` `Type:CLI` `SQLite` 
 
 #### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-`Affiliation: Job` `Type: CLI` `Type: Desktop` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`Rel:Job` `Type:CLI` `Type:Desktop` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 #### [pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
 
-`Affiliation: Hobby` `Type: Desktop` `PyQt6` 
+`Rel:Hobby` `Type:Desktop` `PyQt6` 
 
 #### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
 
-`Affiliation: Academic` `Type: CLI` `TensorFlow` 
+`Rel:Academic` `Type:CLI` `TensorFlow` 
 
 #### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
 
-`Affiliation: Hobby` `Type: Web` `Flask` `MongoDB` 
+`Rel:Hobby` `Type:Web` `Flask` `MongoDB` 
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
-`Affiliation: Academic` `Type: Server`  `MQTT5`
+`Rel:Academic` `Type:Server`  `MQTT5`
 
 
 <br>
@@ -50,19 +50,19 @@ nav: ByLanguage
 
 #### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
-`Affiliation: Academic` `Type: Web` `Node.js` `MySQL` `Bootstrap4` 
+`Rel:Academic` `Type:Web` `Node.js` `MySQL` `Bootstrap4` 
 
 #### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`Affiliation: Job` `Type: Web` `VanillaJS` `D3.js` `Trust` `DecentralizedWeb` 
+`Rel:Job` `Type:Web` `VanillaJS` `D3.js` `Trust` `DecentralizedWeb` 
 
 #### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
 
-`Affiliation: Academic` `Type: Web` `Node.js` `AngularJS` `MongoDB` 
+`Rel:Academic` `Type:Web` `Node.js` `AngularJS` `MongoDB` 
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`Affiliation: Academic` `Type: Web` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
+`Rel:Academic` `Type:Web` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
 
 
 <br>
@@ -72,7 +72,7 @@ nav: ByLanguage
 
 #### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
 
-`Affiliation: Hobby` `Type: Web` `.NET` `ASP.NET MVC` `MSSQL` 
+`Rel:Hobby` `Type:Web` `.NET` `ASP.NET MVC` `MSSQL` 
 
 
 <br>
@@ -82,7 +82,7 @@ nav: ByLanguage
 
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
-`Affiliation: Hobby` `Type: Web` `JavaEE` `Spring Boot` `JPA/Hibernate` 
+`Rel:Hobby` `Type:Web` `JavaEE` `Spring Boot` `JPA/Hibernate` 
 
 
 <br>
@@ -92,4 +92,4 @@ nav: ByLanguage
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
-`Affiliation: Other` `Type: Other`  
+`Rel:Other` `Type:Other`  

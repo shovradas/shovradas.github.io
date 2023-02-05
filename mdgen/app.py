@@ -34,11 +34,11 @@ def generate(key, grouped_projects, header):
             name = project["name"]
             link = project["link"]
             description = project["description"]
-            affiliations = ' '.join(f'`Affiliation: {x}`' for x in project["affiliations"])
+            affiliations = ' '.join(f'`Rel:{x}`' for x in project["affiliations"])
             platforms = ' '.join(f'`{x}`' for x in project["platforms"])
             languages = ' '.join(f'`{x}`' for x in project["languages"])
             primary_language = f'`{project["primaryLanguage"]}`'
-            types = ' '.join(f'`Type: {x}`' for x in project["types"])
+            types = ' '.join(f'`Type:{x}`' for x in project["types"])
             technologies = ' '.join(f'`{x}`' for x in project["technologies"])
             tags = ' '.join(f'`{x}`' for x in project["tags"])
             
