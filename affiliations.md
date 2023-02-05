@@ -8,33 +8,33 @@ nav: ByAffiliations
 <br>
 
 
-### JOB
+### Job
 
 #### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
 
 `CLI` `Python`  
 
-#### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
+#### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`CLI` `Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
-
-#### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
-
-`CLI` `Python` `SQLite` 
+`Web` `JavaScript` `D3.js` `VanillaJS` 
 
 #### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
 `Web` `Python` `Flask` 
 
-#### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
+#### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
 
-`Web` `JavaScript` `VanillaJS` `D3.js` 
+`CLI` `Python` `SQLite` 
+
+#### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
+
+`CLI` `Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 
 <br>
 
 
-### HOBBY
+### Hobby
 
 #### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
@@ -48,27 +48,19 @@ nav: ByAffiliations
 
 `Web` `Python` `Flask` `MongoDB` 
 
-#### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
-
-`Web` `C#` `.NET` `ASP.NET MVC` `MSSQL` 
-
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
 `Web` `Java` `JavaEE` `Spring Boot` `JPA/Hibernate` 
+
+#### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
+
+`Web` `C#` `.NET` `ASP.NET MVC` `MSSQL` 
 
 
 <br>
 
 
-### ACADEMIC
-
-#### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
-
-`CLI` `Python` `TensorFlow` 
-
-#### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
-
-`Server` `Python`  `MQTT5`
+### Academic
 
 #### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
@@ -78,6 +70,14 @@ nav: ByAffiliations
 
 `Web` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
 
+#### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
+
+`CLI` `Python` `TensorFlow` 
+
+#### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
+
+`Server` `Python`  `MQTT5`
+
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
 `Web` `JavaScript` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
@@ -86,7 +86,7 @@ nav: ByAffiliations
 <br>
 
 
-### OTHER
+### Other
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 

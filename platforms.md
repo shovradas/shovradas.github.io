@@ -8,35 +8,35 @@ nav: ByPlatforms
 <br>
 
 
-### PYTHON
+### Python
 
 #### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
 
 `Job` `CLI` `Python`  
 
-#### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
+#### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
-`Job` `CLI` `Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`Job` `Hobby` `Web` `Python` `Flask` 
 
 #### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
 
 `Job` `CLI` `Python` `SQLite` 
 
-#### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
+#### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-`Job` `Hobby` `Web` `Python` `Flask` 
+`Job` `CLI` `Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 #### [pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
 
 `Hobby` `Desktop` `Python` `PyQt6` 
 
-#### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
-
-`Hobby` `Web` `Python` `Flask` `MongoDB` 
-
 #### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
 
 `Academic` `CLI` `Python` `TensorFlow` 
+
+#### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
+
+`Hobby` `Web` `Python` `Flask` `MongoDB` 
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
@@ -46,17 +46,21 @@ nav: ByPlatforms
 <br>
 
 
-### VANILLAJS
+### Other
 
 #### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`Job` `Web` `JavaScript` `D3.js` 
+`Job` `Web` `JavaScript` `D3.js` `VanillaJS` 
+
+#### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
+
+ 
 
 
 <br>
 
 
-### NODE.JS
+### Node.js
 
 #### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
@@ -74,7 +78,7 @@ nav: ByPlatforms
 <br>
 
 
-### SOLID
+### SoLiD
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
@@ -94,18 +98,8 @@ nav: ByPlatforms
 <br>
 
 
-### JAVAEE
+### JavaEE
 
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
 `Hobby` `Web` `Java` `Spring Boot` `JPA/Hibernate` 
-
-
-<br>
-
-
-### OTHER
-
-#### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
-
- 

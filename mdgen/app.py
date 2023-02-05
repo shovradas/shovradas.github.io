@@ -13,7 +13,7 @@ def generate(key, grouped_projects, header):
     for group_name, group in grouped_projects.items():
         lines.append("\n<br>\n")
         lines.append(f"### {group_name}")
-        for project in group:
+        for project in sorted(group, key=lambda x: x["name"]):
             name = project["name"]
             link = project["link"]
             description = project["description"]
