@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+h4{
+    margin-block-end: 0!important;
+}
+
 h4+p{
     margin-block-start: 0!important;
 }
