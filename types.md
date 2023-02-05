@@ -96,4 +96,4 @@ nav: ByTypes
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
-`Other` `Other`  
+ 
