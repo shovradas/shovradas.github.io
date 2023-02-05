@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-h5{
-    margin-bottom: 0;
+h4+p{
+    margin-top: 0;
 }
