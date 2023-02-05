@@ -36,6 +36,10 @@ nav: ByAffiliations
 
 ### Hobby
 
+#### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
+
+`Type:Web` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
+
 #### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
 `Type:Web` `Python` `Flask` 
@@ -43,10 +47,6 @@ nav: ByAffiliations
 #### [pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
 
 `Type:Desktop` `Python` `PyQt6` 
-
-#### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
-
-`Type:Web` `Python` `Flask` `MongoDB` 
 
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
@@ -66,13 +66,13 @@ nav: ByAffiliations
 
 `Type:Web` `JavaScript` `Node.js` `MySQL` `Bootstrap4` 
 
-#### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
-
-`Type:Web` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
-
 #### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
 
 `Type:CLI` `Python` `TensorFlow` 
+
+#### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
+
+`Type:Web` `Python` `Flask` `MongoDB` 
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 

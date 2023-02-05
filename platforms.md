@@ -36,7 +36,7 @@ nav: ByPlatforms
 
 #### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
 
-`Affl:Hobby` `Type:Web` `Python` `Flask` `MongoDB` 
+`Affl:Academic` `Type:Web` `Python` `Flask` `MongoDB` 
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
@@ -64,7 +64,7 @@ nav: ByPlatforms
 
 #### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
 
-`Affl:Academic` `Type:Web` `JavaScript` `AngularJS` `MongoDB` 
+`Affl:Hobby` `Type:Web` `JavaScript` `AngularJS` `MongoDB` 
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 

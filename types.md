@@ -56,7 +56,7 @@ nav: ByTypes
 
 #### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
 
-`Affl:Academic` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
+`Affl:Hobby` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
 
 #### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
@@ -64,7 +64,7 @@ nav: ByTypes
 
 #### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
 
-`Affl:Hobby` `Python` `Flask` `MongoDB` 
+`Affl:Academic` `Python` `Flask` `MongoDB` 
 
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
