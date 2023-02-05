@@ -12,7 +12,7 @@ def generate(key, grouped_projects, header):
     lines = []
     for group_name, group in grouped_projects.items():
         lines.append("\n<br>\n")
-        lines.append(f"### {group_name.upper()}")
+        lines.append(f"### {group_name}")
         for project in group:
             name = project["name"]
             link = project["link"]

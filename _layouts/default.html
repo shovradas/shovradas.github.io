@@ -34,8 +34,8 @@
     <main id="content" class="main-content" role="main">
       <!-- added by shovra -->
       <div style="text-align: center">
-          {% for page in site.pages %}
-            <a href={{ page.file }} style="padding: 0 10px;">{{ page.nav }}</a>
+          {% for p in site.pages %}
+            <a href={{ p.file }} style="padding: 0 10px;" {% if page.nav==p.nav %} class="active"{% endif %}>{{ p.nav }}</a>
           {% endfor %}
         </select>
       </div>
