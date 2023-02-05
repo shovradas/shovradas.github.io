@@ -10,25 +10,25 @@ nav: ByAffiliations
 
 ### JOB
 
-[atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
+#### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
 
-> `CLI` `Python`  
+`CLI` `Python`  
 
-[iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
+#### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-> `CLI` `Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`CLI` `Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
-[iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
+#### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
 
-> `CLI` `Python` `SQLite` 
+`CLI` `Python` `SQLite` 
 
-[iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
+#### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
-> `Web` `Python` `Flask` 
+`Web` `Python` `Flask` 
 
-[atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
+#### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-> `Web`  `VanillaJS` `D3.js` 
+`Web`  `VanillaJS` `D3.js` 
 
 
 <br>
@@ -36,25 +36,25 @@ nav: ByAffiliations
 
 ### HOBBY
 
-[iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
+#### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
-> `Web` `Python` `Flask` 
+`Web` `Python` `Flask` 
 
-[pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
+#### [pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
 
-> `Desktop` `Python` `PyQt6` 
+`Desktop` `Python` `PyQt6` 
 
-[proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
+#### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
 
-> `Web` `Python` `Flask` `MongoDB` 
+`Web` `Python` `Flask` `MongoDB` 
 
-[ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
+#### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
 
-> `Web` `.NET` `ASP.NET MVC` `MSSQL` 
+`Web` `.NET` `ASP.NET MVC` `MSSQL` 
 
-[school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
+#### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
-> `Web` `JavaEE` `Spring Boot` `JPA/Hibernate` 
+`Web` `JavaEE` `Spring Boot` `JPA/Hibernate` 
 
 
 <br>
@@ -62,25 +62,25 @@ nav: ByAffiliations
 
 ### ACADEMIC
 
-[pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
+#### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
 
-> `CLI` `Python` `TensorFlow` 
+`CLI` `Python` `TensorFlow` 
 
-[pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
+#### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
-> `Server` `Python`  `MQTT5`
+`Server` `Python`  `MQTT5`
 
-[SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
+#### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
-> `Web` `Node.js` `MySQL` `Bootstrap4` 
+`Web` `Node.js` `MySQL` `Bootstrap4` 
 
-[feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
+#### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
 
-> `Web` `Node.js` `AngularJS` `MongoDB` 
+`Web` `Node.js` `AngularJS` `MongoDB` 
 
-[solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
+#### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-> `Web` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
+`Web` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
 
 
 <br>
@@ -88,6 +88,6 @@ nav: ByAffiliations
 
 ### OTHER
 
-[competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
+#### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
->    
+   
