@@ -90,4 +90,4 @@ nav: ByAffiliations
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
-`Type:Other`  
+ 

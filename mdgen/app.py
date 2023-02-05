@@ -44,8 +44,8 @@ def generate(key, grouped_projects, header):
             
             line = f"#### [{name}]({link}) &#8212; {description}"
             lines.append(line)
-            line = f"{affiliations} " if key != 'affiliations' and affiliations != "`Other`" else ''
-            line += f"{types} " if key != 'types' and types != "`Other`" else ''
+            line = f"{affiliations} " if key != 'affiliations' and affiliations != "`Affl:Other`" else ''
+            line += f"{types} " if key != 'types' and types != "`Type:Other`" else ''
             line += f"{primary_language} " if key != 'primaryLanguage' and primary_language != "`Other`" else ''
             line += f"{platforms} " if key != 'platforms' and platforms != primary_language  and platforms != "`Other`" else ''
             line += f"{technologies} {tags}"
