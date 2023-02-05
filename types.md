@@ -2,7 +2,7 @@
 layout: default
 title: Shovra Das
 file: types
-nav: ByTYPES
+nav: ByTypes
 ---
 
 <br>

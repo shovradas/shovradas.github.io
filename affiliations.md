@@ -2,7 +2,7 @@
 layout: default
 title: Shovra Das
 file: affiliations
-nav: ByAFFILIATIONS
+nav: ByAffiliations
 ---
 
 <br>
