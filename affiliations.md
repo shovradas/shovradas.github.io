@@ -28,7 +28,7 @@ nav: ByAffiliations
 
 #### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`Web` `JavaScript`  `VanillaJS` `D3.js` 
+`Web` `JavaScript` `VanillaJS` `D3.js` 
 
 
 <br>

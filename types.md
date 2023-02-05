@@ -56,7 +56,7 @@ nav: ByTypes
 
 #### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`Job` `JavaScript`  `VanillaJS` `D3.js` 
+`Job` `JavaScript` `VanillaJS` `D3.js` 
 
 #### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
