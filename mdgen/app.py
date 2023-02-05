@@ -33,9 +33,9 @@ def generate(key, grouped_projects, header):
             link = project["link"]
             description = project["description"]
             affiliations = '|'.join(project["affiliations"])
-            platforms = ' '.join(f'`{x}`' for x in project["platforms"])
+            platforms = '|'.join(project["platforms"])
             languages = ' '.join(f'`{x}`' for x in project["languages"])
-            primary_language = f'`{project["primaryLanguage"]}`'
+            primary_language = project["primaryLanguage"]
             types = '|'.join(project["types"])
             technologies = ' '.join(f'`{x}`' for x in project["technologies"])
             tags = ' '.join(f'`{x}`' for x in project["tags"])            
@@ -43,9 +43,9 @@ def generate(key, grouped_projects, header):
             lines.append(line)
             # TODO: deal with Other
             line = f"`affl:{affiliations}` " if key != 'affiliations' and affiliations != "Other" else ''
-            line += f"`type:{types}` " if key != 'types' and types != "`type:Other`" else ''
-            line += f"{primary_language} " if key != 'primaryLanguage' and primary_language != "`Other`" else ''
-            line += f"{platforms} " if key != 'platforms' and platforms != primary_language  and platforms != "`Other`" else ''
+            line += f"`type:{types}` " if key != 'types' and types != "Other" else ''
+            line += f"`{primary_language}` " if key != 'primaryLanguage' and primary_language != "Other" else ''
+            line += f"`{platforms}` " if key != 'platforms' and platforms != primary_language  and platforms != "Other" else ''
             line += f"{technologies} {tags}"
             lines.append(line)
 

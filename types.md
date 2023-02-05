@@ -72,7 +72,7 @@ nav: ByTypes
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`affl:Academic` `JavaScript` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
+`affl:Academic` `JavaScript` `Node.js|SoLiD` `WebSocket` `SPARQL` `WoT`
 
 #### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
 

@@ -80,7 +80,7 @@ nav: ByAffiliations
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`type:Web` `JavaScript` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
+`type:Web` `JavaScript` `Node.js|SoLiD` `WebSocket` `SPARQL` `WoT`
 
 
 <br>
@@ -90,4 +90,4 @@ nav: ByAffiliations
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
-`type:Other`  
+ 

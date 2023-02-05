@@ -62,7 +62,7 @@ nav: ByLanguage
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`affl:Academic` `type:Web` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
+`affl:Academic` `type:Web` `Node.js|SoLiD` `WebSocket` `SPARQL` `WoT`
 
 
 <br>
@@ -92,4 +92,4 @@ nav: ByLanguage
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
-`type:Other`  
+ 
