@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-h4{
-    border-top: 1px solid #ddd;
+.main-content h4{
+    border-bottom: 1px solid #ddd;
 }
