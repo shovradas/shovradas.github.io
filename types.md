@@ -87,3 +87,13 @@ nav: ByTypes
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
 `Academic` `Python`  `MQTT5`
+
+
+<br>
+
+
+### OTHER
+
+#### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
+
+`Other` `Other`  

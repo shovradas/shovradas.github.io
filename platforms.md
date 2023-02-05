@@ -89,3 +89,13 @@ nav: ByPlatforms
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
 `Hobby` `Web` `Java` `Spring Boot` `JPA/Hibernate` 
+
+
+<br>
+
+
+### OTHER
+
+#### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
+
+`Other` `Other` `Other`  
