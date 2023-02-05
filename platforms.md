@@ -12,35 +12,35 @@ nav: ByPlatforms
 
 #### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
 
-`Affl:Job` `Type:CLI` `Python`  `DecentralizedWeb`
+`affl:Job` `type:CLI` `Python`  `DecentralizedWeb`
 
 #### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
-`Affl:Job` `Affl:Hobby` `Type:Web` `Python` `Flask` 
+`affl:Job|Hobby` `type:Web` `Python` `Flask` 
 
 #### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
 
-`Affl:Job` `Type:CLI` `Python` `SQLite` 
+`affl:Job` `type:CLI` `Python` `SQLite` 
 
 #### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-`Affl:Job` `Type:CLI` `Type:Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`affl:Job` `type:CLI` `type:Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 #### [pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
 
-`Affl:Hobby` `Type:Desktop` `Python` `PyQt6` 
+`affl:Hobby` `type:Desktop` `Python` `PyQt6` 
 
 #### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
 
-`Affl:Academic` `Type:CLI` `Python` `TensorFlow` 
+`affl:Academic` `type:CLI` `Python` `TensorFlow` 
 
 #### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
 
-`Affl:Academic` `Type:Web` `Python` `Flask` `MongoDB` 
+`affl:Academic` `type:Web` `Python` `Flask` `MongoDB` 
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
-`Affl:Hobby` `Type:Server` `Python`  `MQTT5`
+`affl:Hobby` `type:Server` `Python`  `MQTT5`
 
 
 <br>
@@ -50,7 +50,7 @@ nav: ByPlatforms
 
 #### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`Affl:Job` `Type:Web` `JavaScript` `D3.js` `Trust` `DecentralizedWeb` 
+`affl:Job` `type:Web` `JavaScript` `D3.js` `Trust` `DecentralizedWeb` 
 
 
 <br>
@@ -60,15 +60,15 @@ nav: ByPlatforms
 
 #### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
-`Affl:Academic` `Type:Web` `JavaScript` `MySQL` `Bootstrap4` 
+`affl:Academic` `type:Web` `JavaScript` `MySQL` `Bootstrap4` 
 
 #### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
 
-`Affl:Hobby` `Type:Web` `JavaScript` `AngularJS` `MongoDB` 
+`affl:Hobby` `type:Web` `JavaScript` `AngularJS` `MongoDB` 
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`Affl:Academic` `Type:Web` `JavaScript` `WebSocket` `SPARQL` `WoT`
+`affl:Academic` `type:Web` `JavaScript` `WebSocket` `SPARQL` `WoT`
 
 
 <br>
@@ -78,7 +78,7 @@ nav: ByPlatforms
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`Affl:Academic` `Type:Web` `JavaScript` `WebSocket` `SPARQL` `WoT`
+`affl:Academic` `type:Web` `JavaScript` `WebSocket` `SPARQL` `WoT`
 
 
 <br>
@@ -88,7 +88,7 @@ nav: ByPlatforms
 
 #### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
 
-`Affl:Hobby` `Type:Web` `C#` `ASP.NET MVC` `MSSQL` 
+`affl:Hobby` `type:Web` `C#` `ASP.NET MVC` `MSSQL` 
 
 
 <br>
@@ -98,7 +98,7 @@ nav: ByPlatforms
 
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
-`Affl:Hobby` `Type:Web` `Java` `Spring Boot` `JPA/Hibernate` 
+`affl:Hobby` `type:Web` `Java` `Spring Boot` `JPA/Hibernate` 
 
 
 <br>
@@ -108,4 +108,4 @@ nav: ByPlatforms
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
- 
+`type:Other`  
