@@ -87,7 +87,7 @@
         "name": "pymqtt-broker",
         "link": "https://github.com/shovradas/pymqtt-broker",
         "description": "A MQTT broker",
-        "affiliations": ["Academic"],
+        "affiliations": ["Hobby"],
         "platforms": ["Python"],
         "languages": ["Python"],
         "primaryLanguage": "Python",

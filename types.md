@@ -86,7 +86,7 @@ nav: ByTypes
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
-`Affl:Academic` `Python`  `MQTT5`
+`Affl:Hobby` `Python`  `MQTT5`
 
 
 <br>

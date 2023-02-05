@@ -40,7 +40,7 @@ nav: ByPlatforms
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
-`Affl:Academic` `Type:Server` `Python`  `MQTT5`
+`Affl:Hobby` `Type:Server` `Python`  `MQTT5`
 
 
 <br>

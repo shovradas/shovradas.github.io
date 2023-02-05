@@ -48,6 +48,10 @@ nav: ByAffiliations
 
 `Type:Desktop` `Python` `PyQt6` 
 
+#### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
+
+`Type:Server` `Python`  `MQTT5`
+
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
 `Type:Web` `Java` `JavaEE` `Spring Boot` `JPA/Hibernate` 
@@ -73,10 +77,6 @@ nav: ByAffiliations
 #### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
 
 `Type:Web` `Python` `Flask` `MongoDB` 
-
-#### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
-
-`Type:Server` `Python`  `MQTT5`
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 

@@ -40,7 +40,7 @@ nav: ByLanguage
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
-`Affl:Academic` `Type:Server`  `MQTT5`
+`Affl:Hobby` `Type:Server`  `MQTT5`
 
 
 <br>
