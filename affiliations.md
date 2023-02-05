@@ -28,7 +28,7 @@ nav: ByAffiliations
 
 #### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`Web`  `VanillaJS` `D3.js` 
+`Web` `JavaScript`  `VanillaJS` `D3.js` 
 
 
 <br>
@@ -50,11 +50,11 @@ nav: ByAffiliations
 
 #### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
 
-`Web` `.NET` `ASP.NET MVC` `MSSQL` 
+`Web` `C#` `.NET` `ASP.NET MVC` `MSSQL` 
 
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
-`Web` `JavaEE` `Spring Boot` `JPA/Hibernate` 
+`Web` `Java` `JavaEE` `Spring Boot` `JPA/Hibernate` 
 
 
 <br>
@@ -72,15 +72,15 @@ nav: ByAffiliations
 
 #### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
-`Web` `Node.js` `MySQL` `Bootstrap4` 
+`Web` `JavaScript` `Node.js` `MySQL` `Bootstrap4` 
 
 #### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
 
-`Web` `Node.js` `AngularJS` `MongoDB` 
+`Web` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`Web` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
+`Web` `JavaScript` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
 
 
 <br>
@@ -90,4 +90,4 @@ nav: ByAffiliations
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
-   
+ `Other`   

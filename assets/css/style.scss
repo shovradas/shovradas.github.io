@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.main-content h3{    
+    color: black;
+}
+
 .main-content h4{    
     margin-bottom: 0.25rem;
 }
