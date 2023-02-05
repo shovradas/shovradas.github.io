@@ -12,19 +12,19 @@ nav: ByTypes
 
 #### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
 
-`Rel:Job` `Python`  `DecentralizedWeb`
+`Affl:Job` `Python`  `DecentralizedWeb`
 
 #### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
 
-`Rel:Job` `Python` `SQLite` 
+`Affl:Job` `Python` `SQLite` 
 
 #### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-`Rel:Job` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`Affl:Job` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 #### [pressifier-engine](https://github.com/binuv-tuc/pressifier-engine) &#8212; A data analytic project
 
-`Rel:Academic` `Python` `TensorFlow` 
+`Affl:Academic` `Python` `TensorFlow` 
 
 
 <br>
@@ -34,11 +34,11 @@ nav: ByTypes
 
 #### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
 
-`Rel:Job` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
+`Affl:Job` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
 #### [pdf-util](https://github.com/shovradas/pdf-util) &#8212; A PDF utility
 
-`Rel:Hobby` `Python` `PyQt6` 
+`Affl:Hobby` `Python` `PyQt6` 
 
 
 <br>
@@ -48,35 +48,35 @@ nav: ByTypes
 
 #### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
 
-`Rel:Academic` `JavaScript` `Node.js` `MySQL` `Bootstrap4` 
+`Affl:Academic` `JavaScript` `Node.js` `MySQL` `Bootstrap4` 
 
 #### [atlas-graphviz](https://github.com/shovradas/atlas-graphviz) &#8212; aTLAS graph visualizer
 
-`Rel:Job` `JavaScript` `VanillaJS` `D3.js` `Trust` `DecentralizedWeb` 
+`Affl:Job` `JavaScript` `VanillaJS` `D3.js` `Trust` `DecentralizedWeb` 
 
 #### [feedi](https://github.com/shovradas/feedi) &#8212; A Web Feed Aggregator
 
-`Rel:Academic` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
+`Affl:Academic` `JavaScript` `Node.js` `AngularJS` `MongoDB` 
 
 #### [iwu-callse](https://github.com/shovradas/iwu-callse) &#8212; A project call search engine
 
-`Rel:Job` `Rel:Hobby` `Python` `Flask` 
+`Affl:Job` `Affl:Hobby` `Python` `Flask` 
 
 #### [proxyally](https://github.com/shovradas/proxyally) &#8212; A proxy aggregator
 
-`Rel:Hobby` `Python` `Flask` `MongoDB` 
+`Affl:Hobby` `Python` `Flask` `MongoDB` 
 
 #### [school-ms](https://github.com/shovradas/school-ms) &#8212; School Management System
 
-`Rel:Hobby` `Java` `JavaEE` `Spring Boot` `JPA/Hibernate` 
+`Affl:Hobby` `Java` `JavaEE` `Spring Boot` `JPA/Hibernate` 
 
 #### [solid-wot](https://github.com/shovradas/solid-wot) &#8212; A SoLiD app for Web of Things
 
-`Rel:Academic` `JavaScript` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
+`Affl:Academic` `JavaScript` `Node.js` `SoLiD` `WebSocket` `SPARQL` `WoT`
 
 #### [ums-dotnet](https://github.com/shovradas/ums-dotnet) &#8212; University Management System
 
-`Rel:Hobby` `C#` `.NET` `ASP.NET MVC` `MSSQL` 
+`Affl:Hobby` `C#` `.NET` `ASP.NET MVC` `MSSQL` 
 
 
 <br>
@@ -86,7 +86,7 @@ nav: ByTypes
 
 #### [pymqtt-broker](https://github.com/shovradas/pymqtt-broker) &#8212; A MQTT broker
 
-`Rel:Academic` `Python`  `MQTT5`
+`Affl:Academic` `Python`  `MQTT5`
 
 
 <br>
@@ -96,4 +96,4 @@ nav: ByTypes
 
 #### [competitive-programming](https://github.com/shovradas/competitive-programming) &#8212; Problem Solving
 
-`Rel:Other`  
+`Affl:Other`  
