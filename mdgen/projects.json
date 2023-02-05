@@ -9,7 +9,7 @@
         "primaryLanguage": "Python",
         "types": ["CLI"],
         "technologies": [],        
-        "tags": []        
+        "tags": ["DecentralizedWeb"]        
     },
     {
         "name": "iwu-windnode",
@@ -100,11 +100,11 @@
         "link": "https://github.com/shovradas/atlas-graphviz",
         "description": "aTLAS graph visualizer",
         "affiliations": ["Job"],
-        "platforms": ["Other"],
+        "platforms": ["VanillaJS"],
         "languages": ["JavaScript"],
         "primaryLanguage": "JavaScript",
         "types": ["Web"],
-        "technologies": ["D3.js", "VanillaJS"],
+        "technologies": ["D3.js", "Trust", "DecentralizedWeb"],
         "tags": []
     },
     {
