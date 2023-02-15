@@ -2,7 +2,7 @@
     {
         "name": "atlas-evalutil",        
         "link": "https://github.com/shovradas/atlas-evalutil", 
-        "description": "aTLAS Evealuation Result Utility",
+        "description": "aTLAS Evaluation Result Utility",
         "affiliations": ["Job"],       
         "platforms": ["Python"],
         "languages": ["Python"],
@@ -14,7 +14,7 @@
     {
         "name": "iwu-windnode",
         "link": "https://github.com/shovradas/windnode-demonstrator",
-        "description": "A multiobjective optimization project",
+        "description": "A multiobjective optimization project (private repo)",
         "affiliations": ["Job"],
         "platforms": ["Python"],
         "languages": ["Python"],
@@ -26,7 +26,7 @@
     {
         "name": "iwu-fofab",
         "link": "https://github.com/shovradas/iwu-fofab",
-        "description": "A data aquisition project",
+        "description": "A data acquisition project (private repo)",
         "affiliations": ["Job"],
         "platforms": ["Python"],
         "languages": ["Python"],
@@ -110,7 +110,7 @@
     {
         "name": "SDPcontroller-dashboard",
         "link": "https://github.com/shovradas/SDPcontroller-dashboard",
-        "description": "Dasboard application for SDP Controller",
+        "description": "Dashboard application for SDP Controller",
         "affiliations": ["Academic"],
         "platforms": ["Node.js"],
         "languages": ["JavaScript"],

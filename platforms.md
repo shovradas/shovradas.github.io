@@ -10,7 +10,7 @@ nav: ByPlatforms
 
 ### Python
 
-#### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evealuation Result Utility
+#### [atlas-evalutil](https://github.com/shovradas/atlas-evalutil) &#8212; aTLAS Evaluation Result Utility
 
 `affl:Job` `type:CLI` `Python`  `DecentralizedWeb`
 
@@ -18,11 +18,11 @@ nav: ByPlatforms
 
 `affl:Job|Hobby` `type:Web` `Python` `Flask` 
 
-#### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data aquisition project
+#### [iwu-fofab](https://github.com/shovradas/iwu-fofab) &#8212; A data acquisition project (private repo)
 
 `affl:Job` `type:CLI` `Python` `SQLite` 
 
-#### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project
+#### [iwu-windnode](https://github.com/shovradas/windnode-demonstrator) &#8212; A multiobjective optimization project (private repo)
 
 `affl:Job` `type:CLI|Desktop` `Python` `PyQt5` `Optimization` `GeneticAlgorithm` `NSGA-II`
 
@@ -58,7 +58,7 @@ nav: ByPlatforms
 
 ### Node.js
 
-#### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dasboard application for SDP Controller
+#### [SDPcontroller-dashboard](https://github.com/shovradas/SDPcontroller-dashboard) &#8212; Dashboard application for SDP Controller
 
 `affl:Academic` `type:Web` `JavaScript` `MySQL` `Bootstrap4` 
 
